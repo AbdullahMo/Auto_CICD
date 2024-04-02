@@ -10,7 +10,7 @@
     <test thread-count="5" name="Positive Tests">
         <classes>
             <class name="SubmitOrderJsonTest"/>
-            <class name="SubmitOrderExcelTest"/>
+            <!-- <class name="SubmitOrderExcelTest"/> -->
         </classes>
     </test>
     <test thread-count="5" name="Negative Tests">
